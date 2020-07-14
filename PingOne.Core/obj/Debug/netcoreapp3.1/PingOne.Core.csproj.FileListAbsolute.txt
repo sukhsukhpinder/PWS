@@ -1,0 +1,9 @@
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\bin\Debug\netcoreapp3.1\PingOne.Core.deps.json
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\bin\Debug\netcoreapp3.1\PingOne.Core.dll
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\bin\Debug\netcoreapp3.1\PingOne.Core.pdb
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.csprojAssemblyReference.cache
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.AssemblyInfoInputs.cache
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.AssemblyInfo.cs
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.csproj.CoreCompileInputs.cache
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.dll
+D:\Workspace_SukhpinderSingh\PWS\PingOne.Core\obj\Debug\netcoreapp3.1\PingOne.Core.pdb

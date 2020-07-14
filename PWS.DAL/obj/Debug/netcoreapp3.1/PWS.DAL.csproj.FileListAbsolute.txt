@@ -1,0 +1,12 @@
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\bin\Debug\netcoreapp3.1\PWS.DAL.deps.json
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\bin\Debug\netcoreapp3.1\PWS.DAL.runtimeconfig.json
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\bin\Debug\netcoreapp3.1\PWS.DAL.runtimeconfig.dev.json
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\bin\Debug\netcoreapp3.1\PWS.DAL.dll
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\bin\Debug\netcoreapp3.1\PWS.DAL.pdb
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.csprojAssemblyReference.cache
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.AssemblyInfoInputs.cache
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.AssemblyInfo.cs
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.csproj.CoreCompileInputs.cache
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.dll
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.pdb
+D:\Workspace_SukhpinderSingh\PWS\PWS.DAL\obj\Debug\netcoreapp3.1\PWS.DAL.genruntimeconfig.cache
